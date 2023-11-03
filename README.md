@@ -1,7 +1,4 @@
 # AcousticCoEx
 Acoustic CoEx Test
 
-
-Test>>>>>To Local Repo
-
->>>>>>>>>>>>>>>>>>>>>>
+####Update user name and email in config.
